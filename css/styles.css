@@ -1,0 +1,31 @@
+.black {
+	width:30px;
+	height:100%;
+	display:inline-block;
+	background-color:teal;
+	border: solid 1px black;
+	overflow:hidden;
+}
+.white {
+	width:30px;
+	height:100%;
+	display:inline-block;
+	background-color:white;
+	border: solid 1px black;
+	overflow:hidden;
+}
+
+img {
+	height: 100%;
+}
+
+.line {
+	height: 30px;
+}
+
+.start {
+	border: solid 1px black;
+	display:inline-block;
+}
+
+
